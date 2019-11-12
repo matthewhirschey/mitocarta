@@ -29,7 +29,7 @@ devtools::install_github("hirscheylab/mitocarta")
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+This is how to take a `glimpse` into the mitocarta dataset:
 
 ``` r
 library(mitocarta)
